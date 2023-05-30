@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "6cb1022d30fa4950",
+    "type": "split",
+    "children": [
+      {
+        "id": "c90c2d72d1f04bdc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "English/语法/介词.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d2e9039d431e87f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7b14ca57624d97d1",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "ef9efce7658fef0e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "f9589695b246208a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6177017983f57000",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "c683896395a18839",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fa44fe5ed584576e",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "04f54600c8dabcc5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "English/语法/介词.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bb4e9c944213dfbc",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "English/语法/介词.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e5be724f07f9a61b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "English/语法/介词.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "c90c2d72d1f04bdc",
+  "lastOpenFiles": [
+    "English/语法/从句.md",
+    "English/语法/介词.md",
+    "2023-05-30.md"
+  ]
+}

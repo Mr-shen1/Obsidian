@@ -1,10 +1,10 @@
 {
-  "accentColor": "",
   "theme": "moonstone",
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "AnuExtendTheme",
     "extended-colorschemes",
     "yaozhuwa@CSS"
-  ]
+  ],
+  "accentColor": ""
 }
