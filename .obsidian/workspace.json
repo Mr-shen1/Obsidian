@@ -11,25 +11,9 @@
             "id": "2993e45260ddba58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "English/语法/介词.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44ad9957240c000a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/语法/从句.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "CS/MySQL/MySQL是怎样运行的：从根儿上理解MySQL.pdf"
               }
             }
           }
@@ -113,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/语法/介词.md",
+                "file": "CS/MySQL/MySQL是怎样运行的：从根儿上理解MySQL.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/语法/介词.md",
+                "file": "CS/MySQL/MySQL是怎样运行的：从根儿上理解MySQL.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/语法/介词.md"
+                "file": "CS/MySQL/MySQL是怎样运行的：从根儿上理解MySQL.pdf"
               }
             }
           },
@@ -207,8 +191,12 @@
   },
   "active": "2993e45260ddba58",
   "lastOpenFiles": [
-    "English/语法/从句.md",
+    "CS/Java/Interview/专题02：Java算法面试题（卷王专供 + 史上最全 + 2023面试必备）-V2 -from-Java面试红宝书-release.pdf",
+    "CS/MySQL/MySQL是怎样运行的：从根儿上理解MySQL.pdf",
+    "CS/MySQL",
+    "CS/Java/Interview/专题01：JVM面试题（卷王专供 + 史上最全 + 2023面试必备）-V20-from-尼恩Java面试宝典.pdf",
     "English/语法/介词.md",
+    "English/语法/从句.md",
     "未命名",
     "English/语法/助动词&情态动词.md",
     "English/语法/动词语气(虚拟语气).md",
@@ -216,15 +204,12 @@
     "English/语法/非谓语动词详解.md",
     "Fitness/卓叔12周/屈髋和深蹲.md",
     "Reading/WeRead/微信读书笔记.md",
-    "CS/Java/Interview/专题02：Java算法面试题（卷王专供 + 史上最全 + 2023面试必备）-V2 -from-Java面试红宝书-release.pdf",
     "新建 文本文档.txt",
-    "CS/Java/Interview/专题01：JVM面试题（卷王专供 + 史上最全 + 2023面试必备）-V20-from-尼恩Java面试宝典.pdf",
     "CS/Java/Interview/专题40：操作系统面试题（卷王专供+ 史上最全 + 2023面试必备）-V28-from-尼恩Java面试宝典-release.pdf",
     "CS/Java/Interview/专题39：Nginx面试题（卷王专供+ 史上最全 + 2023面试必备）-V27-from-尼恩Java面试宝典-release.pdf",
     "CS/Java/Interview/专题38：K8S面试题（卷王专供+ 史上最全 + 2023面试必备）-V59-from-尼恩Java面试宝典.pdf",
     "CS/Java/Interview/专题37：Docker面试题（卷王专供+ 史上最全 + 2023面试必备）-V47-from-尼恩Java面试宝典.pdf",
     "CS/Java/Interview/专题36：Dubbo面试题（卷王专供+ 史上最全 + 2023面试必备）-V21-from-尼恩Java面试宝典-release.pdf",
-    "CS/Java/Interview/专题35：Mybatis面试题（卷王专供+ 史上最全 + 2023面试必备）-V3-from-尼恩Java面试宝典-release.pdf",
     "动词语气(虚拟语气).md",
     "动词语气(虚拟语气) 1.md",
     "English/语法/动词语气(虚拟语气) 1.md",
