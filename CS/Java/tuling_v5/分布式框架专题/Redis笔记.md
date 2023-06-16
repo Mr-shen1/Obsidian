@@ -54,7 +54,7 @@ redis‐cli shutdown
 help @string
 
 ![image.png](https://oss-picgo-skf.oss-cn-hangzhou.aliyuncs.com/ob/img/20230616220205.png)
-字符串常见操作
+2. 字符串常见操作
 ```redis
 SET  key  value 			        //存入字符串键值对
 MSET  key  value [key value ...] 	//批量存储字符串键值对
@@ -64,5 +64,114 @@ MGET  key  [key ...]	         	//批量获取字符串键值
 DEL  key  [key ...] 		        //删除一个键
 EXPIRE  key  seconds 		        //设置一个键的过期时间(秒)
 ```
-string 应用场景
-- 
+3. string 应用场景
+- 单值缓存
+
+```redis
+SET key value
+GET key
+```
+- 对象缓存
+![image.png](https://oss-picgo-skf.oss-cn-hangzhou.aliyuncs.com/ob/img/20230616221130.png)
+```redis
+1) SET user: 1 value (json 格式数据)
+2) MSET user:1: name skf user: 1 balance 1888
+   MGET user:1: name user:1:balance
+```
+
+使用第二种方式更加方便, 不用进行 json 格式的解析和转换
+- 分布式锁
+
+```redis
+SETNX  product: 10001  true 		//返回 1 代表获取锁成功
+SETNX  product: 10001  true 		//返回 0 代表获取锁失败
+。。。执行业务操作
+DEL  product:10001			            //执行完业务释放锁
+SET product: 10001 true  ex  10  nx	//防止程序意外终止导致死锁
+```
+- 计数器
+![image.png](https://oss-picgo-skf.oss-cn-hangzhou.aliyuncs.com/ob/img/20230616222220.png)
+
+```redis
+INCR article:readcount:{文章 id} 
+GET article:readcount:{文章 id} 
+```
+- Web 集群 session 共享
+
+Spring session + redis 实现 session 共享
+- 分布式系统全局序列号
+
+INCRBY  orderId  1000		//redis 批量生成序列号提升性能
+## 2.2 hash 结构
+1. Hash 常用操作
+
+```redis
+HSET  key  field  value 		        	//存储一个哈希表key的键值
+HSETNX  key  field  value 		            //存储一个不存在的哈希表key的键值
+HMSET  key  field  value [field value ...] 	//在一个哈希表key中存储多个键值对
+HGET  key  field 				            //获取哈希表key对应的field键值
+HMGET  key  field  [field ...] 		        //批量获取哈希表key中多个field键值
+HDEL  key  field  [field ...] 	  	        //删除哈希表key中的field键值
+HLEN  key				                    //返回哈希表key中field的数量
+HGETALL  key				                //返回哈希表key中所有的键值
+HINCRBY  key  field  increment 		        //为哈希表key中field键的值加上增量increment
+```
+2. Redis 应用场景
+- 对象存储
+
+```redis
+HMSET  user  {userId}:name  zhuge  {userId}:balance  1888
+HMSET  user  1:name  zhuge  1:balance  1888
+HMGET  user  1:name  1:balance  
+```
+![image.png](https://oss-picgo-skf.oss-cn-hangzhou.aliyuncs.com/ob/img/20230616223132.png)
+
+
+![image.png](https://oss-picgo-skf.oss-cn-hangzhou.aliyuncs.com/ob/img/20230616223140.png)
+- 电商购物车
+
+![image.png](https://oss-picgo-skf.oss-cn-hangzhou.aliyuncs.com/ob/img/20230616223957.png)
+
+1）以用户 id 为 key
+2）商品 id 为 field
+3）商品数量为 value
+购物车操作
+```redis
+添加商品  hset cart: 1001 10088 1
+增加数量  hincrby cart: 1001 10088 1
+商品总数  hlen cart:1001
+删除商品  hdel cart: 1001 10088
+获取购物车所有商品  hgetall cart:1001
+```
+3. Hash 结构的优缺点
+
+优点
+1）同类数据归类整合储存，方便数据管理
+2）相比 string 操作消耗内存与 cpu 更小
+3）相比 string 储存更节省空间
+缺点
+过期功能不能使用在 field 上，只能用在 key 上
+Redis 集群架构下不适合大规模使用
+## 3. 列表 list
+![image.png](https://oss-picgo-skf.oss-cn-hangzhou.aliyuncs.com/ob/img/20230616224929.png)
+1. List 常用操作
+
+```redis
+LPUSH  key  value [value ...] 		//将一个或多个值value插入到key列表的表头(最左边)
+RPUSH  key  value [value ...]	 	//将一个或多个值value插入到key列表的表尾(最右边)
+LPOP  key			//移除并返回key列表的头元素
+RPOP  key			//移除并返回key列表的尾元素
+LRANGE  key  start  stop	//返回列表key中指定区间内的元素，区间以偏移量start和stop指定
+BLPOP  key  [key ...]  timeout	//从key列表表头弹出一个元素，若列表中没有元素，阻塞等待timeout秒,如果timeout=0,一直阻塞等待
+BRPOP  key  [key ...]  timeout 	//从key列表表尾弹出一个元素，若列表中没有元素，阻塞等待timeout秒,如果timeout=0,一直阻塞等待
+```
+2. List 应用场景
+- 常用数据结构
+
+Stack (栈) = LPUSH + LPOP = FILO
+Queue (队列）= LPUSH + RPOP
+Blocking MQ (阻塞队列）= LPUSH + BRPOP
+- 微博和微信公号消息流
+
+
+

@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "31c222a9ba45e69e",
@@ -192,7 +193,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "9e5967176bfdf47c",
+  "active": "2993e45260ddba58",
   "lastOpenFiles": [
     "English/语法/从句.md",
     "CS/Java/tuling_v5/分布式框架专题/Redis笔记.md",
