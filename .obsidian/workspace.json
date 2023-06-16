@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/语法/从句.md",
+                "file": "CS/Java/tuling_v5/分布式框架专题/Redis笔记.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/语法/从句.md",
+                "file": "CS/Java/tuling_v5/分布式框架专题/Redis笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,8 +127,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/语法/从句.md",
-                "collapseAll": false,
+                "file": "CS/Java/tuling_v5/分布式框架专题/Redis笔记.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/语法/从句.md"
+                "file": "CS/Java/tuling_v5/分布式框架专题/Redis笔记.md"
               }
             }
           },
@@ -192,11 +192,14 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "2993e45260ddba58",
+  "active": "9e5967176bfdf47c",
   "lastOpenFiles": [
+    "English/语法/从句.md",
+    "CS/Java/tuling_v5/分布式框架专题/Redis笔记.md",
+    "CS/Java/tuling_v5/分布式框架专题",
+    "CS/Java/tuling_v5",
     "English/语法/非谓语动词详解.md",
     "English/语法/动词语气(虚拟语气).md",
-    "English/语法/从句.md",
     "CS/Java/Interview/专题41：大厂面试真题（卷王专供+ 史上最全 + 2023面试必备）-V72-from-尼恩Java面试宝典.pdf",
     "CS/Java/Interview/专题40：操作系统面试题（卷王专供+ 史上最全 + 2023面试必备）-V28-from-尼恩Java面试宝典-release.pdf",
     "CS/MySQL/MySQL是怎样运行的：从根儿上理解MySQL.pdf",
@@ -210,8 +213,6 @@
     "Fitness/卓叔12周/屈髋和深蹲.md",
     "Reading/WeRead/微信读书笔记.md",
     "新建 文本文档.txt",
-    "CS/Java/Interview/专题39：Nginx面试题（卷王专供+ 史上最全 + 2023面试必备）-V27-from-尼恩Java面试宝典-release.pdf",
-    "CS/Java/Interview/专题38：K8S面试题（卷王专供+ 史上最全 + 2023面试必备）-V59-from-尼恩Java面试宝典.pdf",
     "动词语气(虚拟语气).md",
     "动词语气(虚拟语气) 1.md",
     "English/语法/动词语气(虚拟语气) 1.md",
