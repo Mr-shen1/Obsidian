@@ -3,8 +3,8 @@
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "AnuExtendTheme",
-    "extended-colorschemes",
-    "yaozhuwa@CSS"
+    "yaozhuwa@CSS",
+    "extended-colorschemes"
   ],
   "accentColor": ""
 }
