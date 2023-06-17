@@ -173,5 +173,72 @@ Queue (队列）= LPUSH + RPOP
 Blocking MQ (阻塞队列）= LPUSH + BRPOP
 - 微博和微信公号消息流
 
+![image.png](https://oss-picgo-skf.oss-cn-hangzhou.aliyuncs.com/ob/img/20230617115154.png)
+
+## 4. Set 结构
+1. Set 常用操作
+
+```redis
+SADD  key member  [member ...] //往集合 key 中存入元素，元素存在则忽略，若key不存在则新建
+SREM  key  member [member ...]	//从集合 key 中删除元素
+SMEMBERS  key					//获取集合 key 中所有元素
+SCARD  key					    //获取集合 key 的元素个数
+SISMEMBER  key  member			//判断 member 元素是否存在于集合 key 中
+SRANDMEMBER  key  [count]		//从集合 key 中选出 count 个元素，元素不从 key 中删除
+SPOP  key  [count]				//从集合 key 中选出 count 个元素，元素从 key 中删除
+```
+2. Set 运算操作
+
+```redis
+SINTER  key  [key ...] 			        	//交集运算
+SINTERSTORE  destination  key  [key ..]		//将交集结果存入新集合 destination 中
+SUNION  key  [key ..] 			        	//并集运算
+SUNIONSTORE  destination  key  [key ...]	//将并集结果存入新集合 destination 中
+SDIFF  key  [key ...] 				        //差集运算
+SDIFFSTORE  destination  key  [key ...]		//将差集结果存入新集合 destination 中
+```
+3. Set 常用应用场景
+
+- 微信抽奖小程序
+
+![image.png](https://oss-picgo-skf.oss-cn-hangzhou.aliyuncs.com/ob/img/20230617120127.png)
+- 微信微博点赞, 收藏, 标签
+
+![image.png](https://oss-picgo-skf.oss-cn-hangzhou.aliyuncs.com/ob/img/20230617120544.png)
+- 集合操作
+![image.png](https://oss-picgo-skf.oss-cn-hangzhou.aliyuncs.com/ob/img/20230617121333.png)
+```redis
+SINTER set1 set2 set3   { c }              // 交集
+SUNION set1 set2 set3   { a,b,c,d,e }      // 并集
+SDIFF set1 set2 set3    { a }              // 差集
+差集是以第一个集合为基准, 减去后面集合的并集
+{a,b,c} - {b,c,d,e} = {a}
+```
+- 集合操作实现微博微信关注模型
+
+![image.png](https://oss-picgo-skf.oss-cn-hangzhou.aliyuncs.com/ob/img/20230617122916.png)
+## 5. Zset 有序集合结构
+1. Zset 常用操作
+
+```redis
+ZADD key score member [[score member]…]	//往有序集合key中加入带分值元素
+ZREM key member [member …]		        //从有序集合key中删除元素
+ZSCORE key member 		            	//返回有序集合key中元素member的分值
+ZINCRBY key increment member	      	//为有序集合key中元素member的分值加上increment 
+ZCARD key				                //返回有序集合key中元素个数
+ZRANGE key start stop [WITHSCORES]	    //正序获取有序集合key从start下标到stop下标的元素
+ZREVRANGE key start stop [WITHSCORES]	//倒序获取有序集合key从start下标到stop下标的元素
+```
+2. Zset 集合操作
+
+```redis
+Zset集合操作
+ZUNIONSTORE destkey numkeys key [key ...] 	//并集计算
+ZINTERSTORE destkey numkeys key [key …]	    //交集计算
+```
+3. Zset 应用场景
+
+- 集合操作实现排行榜
+
 
 
