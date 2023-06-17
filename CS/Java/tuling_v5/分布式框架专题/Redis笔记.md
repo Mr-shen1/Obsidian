@@ -218,6 +218,9 @@ SDIFF set1 set2 set3    { a }              // 差集
 
 ![image.png](https://oss-picgo-skf.oss-cn-hangzhou.aliyuncs.com/ob/img/20230617122916.png)
 ## 5. Zset 有序集合结构
+```redis
+help @sorted_set
+```
 1. Zset 常用操作
 
 ```redis
