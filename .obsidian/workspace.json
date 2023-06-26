@@ -101,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/Java/tuling_v5/分布式框架专题/Redis笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/Java/tuling_v5/分布式框架专题/Redis笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/Java/tuling_v5/分布式框架专题/Redis笔记.md"
+              }
             }
           },
           {
@@ -175,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299
+    "width": 299,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,7 +193,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "2286d7c59722e04a",
+  "active": "9e5967176bfdf47c",
   "lastOpenFiles": [
     "CS/Java/tuling_v5/分布式框架专题/Redis笔记.md",
     "English/语法/从句.md",
