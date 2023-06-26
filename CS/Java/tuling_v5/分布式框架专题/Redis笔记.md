@@ -243,5 +243,6 @@ ZINTERSTORE destkey numkeys key [key …]	    //交集计算
 
 - 集合操作实现排行榜
 
+![image.png](https://oss-picgo-skf.oss-cn-hangzhou.aliyuncs.com/ob/img/20230617135555.png)
 
 
