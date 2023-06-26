@@ -102,7 +102,7 @@ Spring session + redis 实现 session 共享
 - 分布式系统全局序列号
 
 INCRBY  orderId  1000		//redis 批量生成序列号提升性能
-## 2.2 hash 结构
+### 2.2 hash 结构
 1. Hash 常用操作
 
 ```redis
@@ -152,7 +152,7 @@ HMGET  user  1:name  1:balance
 缺点
 过期功能不能使用在 field 上，只能用在 key 上
 Redis 集群架构下不适合大规模使用
-## 3. 列表 list
+###  3. 列表 list
 ![image.png](https://oss-picgo-skf.oss-cn-hangzhou.aliyuncs.com/ob/img/20230616224929.png)
 1. List 常用操作
 
@@ -175,7 +175,7 @@ Blocking MQ (阻塞队列）= LPUSH + BRPOP
 
 ![image.png](https://oss-picgo-skf.oss-cn-hangzhou.aliyuncs.com/ob/img/20230617115154.png)
 
-## 4. Set 结构
+### 4. Set 结构
 1. Set 常用操作
 
 ```redis
@@ -217,7 +217,7 @@ SDIFF set1 set2 set3    { a }              // 差集
 - 集合操作实现微博微信关注模型
 
 ![image.png](https://oss-picgo-skf.oss-cn-hangzhou.aliyuncs.com/ob/img/20230617122916.png)
-## 5. Zset 有序集合结构
+### 5. Zset 有序集合结构
 ```redis
 help @sorted_set
 ```
@@ -245,4 +245,9 @@ ZINTERSTORE destkey numkeys key [key …]	    //交集计算
 
 ![image.png](https://oss-picgo-skf.oss-cn-hangzhou.aliyuncs.com/ob/img/20230617135555.png)
 
+## 3. Redis 持久化、主从哨兵架构
+### 3 .1 Redis 持久化
+#### 1. RDB 快照
+
+#### 2. AOF
 

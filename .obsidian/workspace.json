@@ -101,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Java/tuling_v5/分布式框架专题/Redis笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,11 +127,10 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Java/tuling_v5/分布式框架专题/Redis笔记.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -158,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/Java/tuling_v5/分布式框架专题/Redis笔记.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 299
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,10 +188,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "2993e45260ddba58",
+  "active": "2286d7c59722e04a",
   "lastOpenFiles": [
-    "English/语法/从句.md",
     "CS/Java/tuling_v5/分布式框架专题/Redis笔记.md",
+    "English/语法/从句.md",
     "CS/Java/tuling_v5/分布式框架专题",
     "CS/Java/tuling_v5",
     "English/语法/非谓语动词详解.md",
