@@ -3,8 +3,9 @@
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "AnuExtendTheme",
-    "yaozhuwa@CSS",
-    "extended-colorschemes"
+    "extended-colorschemes",
+    "yaozhuwa@CSS"
   ],
+  "baseFontSize": 16,
   "accentColor": ""
 }

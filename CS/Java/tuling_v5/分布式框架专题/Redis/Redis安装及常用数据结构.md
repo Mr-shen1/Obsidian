@@ -244,10 +244,3 @@ ZINTERSTORE destkey numkeys key [key …]	    //交集计算
 - 集合操作实现排行榜
 
 ![image.png](https://oss-picgo-skf.oss-cn-hangzhou.aliyuncs.com/ob/img/20230617135555.png)
-
-## 3. Redis 持久化、主从哨兵架构
-### 3 .1 Redis 持久化
-#### 1. RDB 快照
-
-#### 2. AOF
-
