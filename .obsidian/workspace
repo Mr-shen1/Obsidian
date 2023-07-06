@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS/Java/tuling_v5/分布式框架专题/Redis/Redis 持久化、主从哨兵架构.md",
+            "file": "English/口语、听力/昂克英语连读.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CS/Java/tuling_v5/分布式框架专题/Redis/Redis 持久化、主从哨兵架构.md",
+            "file": "English/口语、听力/昂克英语连读.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CS/Java/tuling_v5/分布式框架专题/Redis/Redis 持久化、主从哨兵架构.md",
+            "file": "English/口语、听力/昂克英语连读.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CS/Java/tuling_v5/分布式框架专题/Redis/Redis 持久化、主从哨兵架构.md"
+            "file": "English/口语、听力/昂克英语连读.md"
           }
         }
       }
@@ -123,9 +123,9 @@
   },
   "active": "fd47db85bd45ad1d",
   "lastOpenFiles": [
-    "CS/Java/tuling_v5/分布式框架专题/Redis/Redis安装及常用数据结构.md",
-    "CS/Java/tuling_v5/分布式框架专题/Redis/Redis 持久化、主从哨兵架构.md",
     "English/语法/独立主格(Absolute Construction).md",
+    "CS/Java/tuling_v5/分布式框架专题/Redis/Redis 持久化、主从哨兵架构.md",
+    "CS/Java/tuling_v5/分布式框架专题/Redis/Redis安装及常用数据结构.md",
     "English/语法/从句.md",
     "English/语法/动词语气(虚拟语气).md",
     "CS/Java/tuling_v5/分布式框架专题/Redis笔记.md",

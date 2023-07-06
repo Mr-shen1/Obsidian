@@ -9,26 +9,6 @@
       "path": "English/语法/独立主格(Absolute Construction).md"
     },
     {
-      "basename": "动词语气(虚拟语气)",
-      "path": "English/语法/动词语气(虚拟语气).md"
-    },
-    {
-      "basename": "从句",
-      "path": "English/语法/从句.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "Fitness/计划/未命名.md"
-    },
-    {
-      "basename": "RedLock存在的问题",
-      "path": "CS/Java/tuling_v5/分布式框架专题/Redis/RedLock存在的问题.md"
-    },
-    {
-      "basename": "Nginx安装及使用",
-      "path": "CS/Java/tuling_v5/分布式框架专题/Nginx/Nginx安装及使用.md"
-    },
-    {
       "basename": "Redis 持久化、主从哨兵架构",
       "path": "CS/Java/tuling_v5/分布式框架专题/Redis/Redis 持久化、主从哨兵架构.md"
     },
@@ -39,6 +19,14 @@
     {
       "basename": "介词",
       "path": "English/语法/介词.md"
+    },
+    {
+      "basename": "从句",
+      "path": "English/语法/从句.md"
+    },
+    {
+      "basename": "动词语气(虚拟语气)",
+      "path": "English/语法/动词语气(虚拟语气).md"
     },
     {
       "basename": "非谓语动词详解",
