@@ -6,5 +6,6 @@
     "extended-colorschemes",
     "yaozhuwa@CSS"
   ],
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "accentColor": ""
 }
