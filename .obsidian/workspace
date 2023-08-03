@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/口语、听力/昂克英语连读.md",
+            "file": "CS/Java/tuling_v5/分布式框架专题/Redis/Redis 持久化、主从哨兵架构.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "English/口语、听力/昂克英语连读.md",
+            "file": "CS/Java/tuling_v5/分布式框架专题/Redis/Redis 持久化、主从哨兵架构.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "English/口语、听力/昂克英语连读.md",
+            "file": "CS/Java/tuling_v5/分布式框架专题/Redis/Redis 持久化、主从哨兵架构.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "English/口语、听力/昂克英语连读.md"
+            "file": "CS/Java/tuling_v5/分布式框架专题/Redis/Redis 持久化、主从哨兵架构.md"
           }
         }
       }
@@ -123,15 +123,15 @@
   },
   "active": "fd47db85bd45ad1d",
   "lastOpenFiles": [
-    "English/语法/独立主格(Absolute Construction).md",
-    "CS/Java/tuling_v5/分布式框架专题/Redis/Redis 持久化、主从哨兵架构.md",
+    "English/口语、听力/昂克英语连读.md",
     "CS/Java/tuling_v5/分布式框架专题/Redis/Redis安装及常用数据结构.md",
+    "CS/Java/tuling_v5/分布式框架专题/Redis/Redis 持久化、主从哨兵架构.md",
+    "English/语法/独立主格(Absolute Construction).md",
     "English/语法/从句.md",
     "English/语法/动词语气(虚拟语气).md",
     "CS/Java/tuling_v5/分布式框架专题/Redis笔记.md",
     "English/语法/介词.md",
     "CS/Java/Interview/专题27：内存泄漏 内存溢出（卷王专供+ 史上最全 + 2023面试必备）-V2-from-Java面试红宝书-release.pdf",
-    "CS/Java/Interview/专题01：JVM面试题（卷王专供 + 史上最全 + 2023面试必备）-V20-from-尼恩Java面试宝典.pdf",
-    "CS/Java/Interview/专题18：一致性协议 （卷王专供+ 史上最全 + 2023面试必备）-V2-from-Java面试红宝书-release.pdf"
+    "CS/Java/Interview/专题01：JVM面试题（卷王专供 + 史上最全 + 2023面试必备）-V20-from-尼恩Java面试宝典.pdf"
   ]
 }

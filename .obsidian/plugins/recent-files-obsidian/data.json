@@ -5,20 +5,20 @@
       "path": "CS/Java/tuling_v5/性能调优专题/MySQL底层数据结构.md"
     },
     {
-      "basename": "昂克英语连读",
-      "path": "English/口语、听力/昂克英语连读.md"
-    },
-    {
-      "basename": "独立主格(Absolute Construction)",
-      "path": "English/语法/独立主格(Absolute Construction).md"
-    },
-    {
       "basename": "Redis 持久化、主从哨兵架构",
       "path": "CS/Java/tuling_v5/分布式框架专题/Redis/Redis 持久化、主从哨兵架构.md"
     },
     {
+      "basename": "昂克英语连读",
+      "path": "English/口语、听力/昂克英语连读.md"
+    },
+    {
       "basename": "Redis安装及常用数据结构",
       "path": "CS/Java/tuling_v5/分布式框架专题/Redis/Redis安装及常用数据结构.md"
+    },
+    {
+      "basename": "独立主格(Absolute Construction)",
+      "path": "English/语法/独立主格(Absolute Construction).md"
     },
     {
       "basename": "介词",
