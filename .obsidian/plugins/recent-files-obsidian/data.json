@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Redis",
+      "path": "CS/Java/Interview/md/Redis.md"
+    },
+    {
       "basename": "MySQL底层数据结构",
       "path": "CS/Java/tuling_v5/性能调优专题/MySQL底层数据结构.md"
+    },
+    {
+      "basename": "Nginx安装及使用",
+      "path": "CS/Java/tuling_v5/分布式框架专题/Nginx/Nginx安装及使用.md"
     },
     {
       "basename": "Redis 持久化、主从哨兵架构",
@@ -37,40 +45,8 @@
       "path": "English/语法/非谓语动词详解.md"
     },
     {
-      "basename": "专题41：大厂面试真题（卷王专供+ 史上最全 + 2023面试必备）-V72-from-尼恩Java面试宝典",
-      "path": "CS/Java/Interview/专题41：大厂面试真题（卷王专供+ 史上最全 + 2023面试必备）-V72-from-尼恩Java面试宝典.pdf"
-    },
-    {
-      "basename": "专题40：操作系统面试题（卷王专供+ 史上最全 + 2023面试必备）-V28-from-尼恩Java面试宝典-release",
-      "path": "CS/Java/Interview/专题40：操作系统面试题（卷王专供+ 史上最全 + 2023面试必备）-V28-from-尼恩Java面试宝典-release.pdf"
-    },
-    {
       "basename": "MySQL是怎样运行的：从根儿上理解MySQL",
       "path": "CS/MySQL/MySQL是怎样运行的：从根儿上理解MySQL.pdf"
-    },
-    {
-      "basename": "专题02：Java算法面试题（卷王专供 + 史上最全 + 2023面试必备）-V2 -from-Java面试红宝书-release",
-      "path": "CS/Java/Interview/专题02：Java算法面试题（卷王专供 + 史上最全 + 2023面试必备）-V2 -from-Java面试红宝书-release.pdf"
-    },
-    {
-      "basename": "专题01：JVM面试题（卷王专供 + 史上最全 + 2023面试必备）-V20-from-尼恩Java面试宝典",
-      "path": "CS/Java/Interview/专题01：JVM面试题（卷王专供 + 史上最全 + 2023面试必备）-V20-from-尼恩Java面试宝典.pdf"
-    },
-    {
-      "basename": "专题27：内存泄漏 内存溢出（卷王专供+ 史上最全 + 2023面试必备）-V2-from-Java面试红宝书-release",
-      "path": "CS/Java/Interview/专题27：内存泄漏 内存溢出（卷王专供+ 史上最全 + 2023面试必备）-V2-from-Java面试红宝书-release.pdf"
-    },
-    {
-      "basename": "专题18：一致性协议 （卷王专供+ 史上最全 + 2023面试必备）-V2-from-Java面试红宝书-release",
-      "path": "CS/Java/Interview/专题18：一致性协议 （卷王专供+ 史上最全 + 2023面试必备）-V2-from-Java面试红宝书-release.pdf"
-    },
-    {
-      "basename": "专题04：架构设计面试题（卷王专供+ 史上最全 + 2023面试必备）-V46-from-尼恩Java面试宝典-release",
-      "path": "CS/Java/Interview/专题04：架构设计面试题（卷王专供+ 史上最全 + 2023面试必备）-V46-from-尼恩Java面试宝典-release.pdf"
-    },
-    {
-      "basename": "专题17：分布式事务面试题（卷王专供 + 史上最全 + 2023面试必备）-V2-from-Java面试红宝书-release",
-      "path": "CS/Java/Interview/专题17：分布式事务面试题（卷王专供 + 史上最全 + 2023面试必备）-V2-from-Java面试红宝书-release.pdf"
     },
     {
       "basename": "助动词&情态动词",
