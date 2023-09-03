@@ -9,3 +9,5 @@ aliases:
 4. 无锁化
 
 ### 2. redis是单线程还是多线程？
+
+![redis面试题图解.jpg](https://oss-picgo-skf.oss-cn-hangzhou.aliyuncs.com/ob/img/redis%E9%9D%A2%E8%AF%95%E9%A2%98%E5%9B%BE%E8%A7%A3.jpg)
