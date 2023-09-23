@@ -1,10 +1,11 @@
 {
   "theme": "moonstone",
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Typora-Vue",
   "enabledCssSnippets": [
     "AnuExtendTheme",
     "extended-colorschemes",
     "yaozhuwa@CSS"
   ],
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "accentColor": ""
 }
