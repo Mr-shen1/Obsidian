@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Forest/Model Tree/模型树/2. 记忆.md",
+                "file": "My Forest/Model Tree/模型树/6. 第一原理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Forest/Model Tree/模型树/2. 记忆.md",
+                "file": "My Forest/Model Tree/模型树/6. 第一原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Forest/Model Tree/模型树/2. 记忆.md",
+                "file": "My Forest/Model Tree/模型树/6. 第一原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Forest/Model Tree/模型树/2. 记忆.md"
+                "file": "My Forest/Model Tree/模型树/6. 第一原理.md"
               }
             }
           },
@@ -198,8 +198,8 @@
   },
   "active": "5b58f51858ab21a2",
   "lastOpenFiles": [
-    "My Forest/Model Tree/模型树/1. 道.md",
     "My Forest/Model Tree/模型树/2. 记忆.md",
+    "My Forest/Model Tree/模型树/1. 道.md",
     "My Forest/Model Tree/模型树/6. 第一原理.md",
     "Reading/WeRead/微信读书笔记.md",
     "未命名看板.md",
