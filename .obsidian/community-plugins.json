@@ -8,5 +8,17 @@
   "obsidian-custom-frames",
   "obsidian-image-auto-upload-plugin",
   "obsidian-git",
-  "obsidian-advanced-uri"
+  "obsidian-advanced-uri",
+  "table-editor-obsidian",
+  "obsidian-kanban",
+  "obsidian-memos",
+  "file-explorer-note-count",
+  "editing-toolbar",
+  "cmdr",
+  "obsidian-emoji-toolbar",
+  "obsidian-icon-shortcodes",
+  "obsidian-file-color",
+  "obsidian-rich-links",
+  "obsidian-icon-folder",
+  "obsidian-sakana-widget"
 ]

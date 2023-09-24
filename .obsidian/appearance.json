@@ -3,9 +3,11 @@
   "cssTheme": "Typora-Vue",
   "enabledCssSnippets": [
     "AnuExtendTheme",
+    "yaozhuwa@CSS",
     "extended-colorschemes",
-    "yaozhuwa@CSS"
+    "段落首行缩进"
   ],
   "baseFontSize": 16,
-  "accentColor": ""
+  "accentColor": "",
+  "nativeMenus": false
 }
