@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Forest/Model Tree/模型树/1. 道.md",
+                "file": "My Forest/Model Tree/模型树/3. 理解.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,6 +32,7 @@
       {
         "id": "c7eb957a5bb080f3",
         "type": "tabs",
+        "dimension": 67.77777777777779,
         "children": [
           {
             "id": "25094f701ae604e2",
@@ -71,6 +72,7 @@
       {
         "id": "858293e6541cf45c",
         "type": "tabs",
+        "dimension": 32.22222222222222,
         "children": [
           {
             "id": "22dfed2e12d67449",
@@ -84,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "31c222a9ba45e69e",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Forest/Model Tree/模型树/1. 道.md",
+                "file": "My Forest/Model Tree/模型树/3. 理解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Forest/Model Tree/模型树/1. 道.md",
+                "file": "My Forest/Model Tree/模型树/3. 理解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Forest/Model Tree/模型树/1. 道.md"
+                "file": "My Forest/Model Tree/模型树/3. 理解.md"
               }
             }
           },
@@ -194,8 +197,25 @@
   },
   "active": "7e4c9a31a976c154",
   "lastOpenFiles": [
-    "English/语法/动词语气(虚拟语气).md",
+    "My Forest/Model Tree/模型树/4. 模型.md",
     "My Forest/Model Tree/模型树/1. 道.md",
+    "My Forest/Model Tree/模型树/3. 理解.md",
+    "My Forest/Model Tree/模型树/6. 第一原理.md",
+    "Templates/未命名 1.md",
+    "Templates/未命名.md",
+    "Templates/T-FM.md",
+    "My Forest/Model Tree/模型树/5. 知识体系.md",
+    "My Forest/Model Tree/模型树/2. 记忆.md",
+    "Reading/WeRead/微信读书笔记.md",
+    "Templates/未命名11.md",
+    "Templates/T-iframe.md",
+    "Temp/MyIdeas.md",
+    "README.md",
+    "Fitness/卓叔12周/屈髋和深蹲.md",
+    "Templates/未命名1.md",
+    "My Forest/Model Tree/模型树/未命名1.md",
+    "My Forest/Model Tree/模型树/未命名.md",
+    "English/语法/动词语气(虚拟语气).md",
     "My Forest/Model Tree/模型树",
     "My Forest/Model Tree",
     "CS/Java/Interview/md/Redis.md",
@@ -213,22 +233,6 @@
     "English/语法/独立主格(Absolute Construction).md",
     "English/语法/从句.md",
     "未命名.canvas",
-    "Fitness/计划/未命名.md",
-    "CS/Java/tuling_v5/分布式框架专题/Redis/RedLock存在的问题.md",
-    "CS/Java/tuling_v5/分布式框架专题/Redis/Redis 持久化、主从哨兵架构.md",
-    "CS/Java/tuling_v5/分布式框架专题/Redis/Redis安装及常用数据结构.md",
-    "CS/Java/tuling_v5/test.md",
-    "English/语法/介词.md",
-    "English/语法/非谓语动词详解.md",
-    "English/语法/助动词&情态动词.md",
-    "Fitness/卓叔12周/屈髋和深蹲.md",
-    "Reading/WeRead/微信读书笔记.md",
-    "动词语气(虚拟语气).md",
-    "动词语气(虚拟语气) 1.md",
-    "English/语法/动词语气(虚拟语气) 1.md",
-    "English/语法/测试.md",
-    "Reading/WeRead/未命名.md",
-    "Templates/T-iframe.md",
-    "Temp/MyIdeas.md"
+    "Fitness/计划/未命名.md"
   ]
 }
