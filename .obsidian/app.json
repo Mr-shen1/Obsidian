@@ -7,5 +7,9 @@
   },
   "promptDelete": false,
   "newFileLocation": "current",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "rightToLeft": false
 }

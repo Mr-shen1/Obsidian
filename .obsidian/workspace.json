@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Forest/Model Tree/模型树/6. 第一原理.md",
+                "file": "English/每日一句/2023-09-14.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "452bb286fdf7915d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/每日一句/2023-09-14.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Forest/Model Tree/模型树/6. 第一原理.md",
+                "file": "English/每日一句/2023-09-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Forest/Model Tree/模型树/6. 第一原理.md",
+                "file": "English/每日一句/2023-09-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Forest/Model Tree/模型树/6. 第一原理.md"
+                "file": "English/每日一句/2023-09-14.md"
               }
             }
           },
@@ -184,36 +198,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-rich-links:Rich Links": false,
-      "command-palette:打开命令面板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
-      "switcher:打开快速切换": false,
       "templates:插入模板": false,
-      "graph:查看关系图谱": false,
+      "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
+      "obsidian-rich-links:Rich Links": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5b58f51858ab21a2",
+  "active": "452bb286fdf7915d",
   "lastOpenFiles": [
+    "My Forest/Model Tree/模型树/4. 模型.md",
+    "English/每日一句/2023-09-14.md",
+    "English/每日一句",
+    "My Forest/Model Tree/模型树/3. 理解.md",
+    "2023-09-24.md",
+    "2023-09-25.md",
+    "note",
+    "Temp/MyIdeas.md",
+    "Temp/未命名.md",
+    "Templates/T-FM.md",
+    "Templates/未命名.md",
+    "Temp/未命名 2.md",
+    "Temp/未命名 1.md",
+    "Templates/T-iframe.md",
+    "My Forest/Model Tree/模型树/6. 第一原理.md",
     "My Forest/Model Tree/模型树/2. 记忆.md",
     "My Forest/Model Tree/模型树/1. 道.md",
-    "My Forest/Model Tree/模型树/6. 第一原理.md",
     "Reading/WeRead/微信读书笔记.md",
     "未命名看板.md",
-    "My Forest/Model Tree/模型树/4. 模型.md",
     "Temp/未命名.canvas",
-    "Temp/未命名.md",
-    "Temp/MyIdeas.md",
-    "My Forest/Model Tree/模型树/3. 理解.md",
     "Templates/未命名 1.md",
-    "Templates/未命名.md",
-    "Templates/T-FM.md",
     "My Forest/Model Tree/模型树/5. 知识体系.md",
     "Templates/未命名11.md",
-    "Templates/T-iframe.md",
     "README.md",
     "Fitness/卓叔12周/屈髋和深蹲.md",
     "Templates/未命名1.md",
@@ -222,18 +244,12 @@
     "English/语法/动词语气(虚拟语气).md",
     "My Forest/Model Tree/模型树",
     "My Forest/Model Tree",
-    "CS/Java/Interview/md/Redis.md",
     "My Forest",
-    "CS/Java/tuling_v5/性能调优专题/MySQL底层数据结构.md",
-    "CS/Java/tuling_v5/分布式框架专题/Nginx/Nginx安装及使用.md",
     "CS/Java/Interview/md",
     "CS/Java/Interview/新建文件夹",
     "CS/Java/Interview/专题01：JVM面试题（卷王专供 + 史上最全 + 2023面试必备）-V20-from-尼恩Java面试宝典.pdf",
     "CS/Java/Interview/pdf/专题40：操作系统面试题（卷王专供+ 史上最全 + 2023面试必备）-V28-from-尼恩Java面试宝典-release.pdf",
     "CS/Java/Interview/pdf/专题39：Nginx面试题（卷王专供+ 史上最全 + 2023面试必备）-V27-from-尼恩Java面试宝典-release.pdf",
-    "CS/Java/Interview/pdf/专题38：K8S面试题（卷王专供+ 史上最全 + 2023面试必备）-V59-from-尼恩Java面试宝典.pdf",
-    "CS/Java/Interview/pdf/专题37：Docker面试题（卷王专供+ 史上最全 + 2023面试必备）-V47-from-尼恩Java面试宝典.pdf",
-    "English/口语、听力/昂克英语连读.md",
     "未命名.canvas"
   ]
 }

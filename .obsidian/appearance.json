@@ -4,8 +4,7 @@
   "enabledCssSnippets": [
     "AnuExtendTheme",
     "yaozhuwa@CSS",
-    "extended-colorschemes",
-    "段落首行缩进"
+    "extended-colorschemes"
   ],
   "baseFontSize": 17,
   "accentColor": "",

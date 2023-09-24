@@ -1,5 +1,5 @@
 ---
 tags: 
 aliases: 
-createTime: {{DATE:YYYY-MM-DD HH:mm:ss}}
+createTime: <% tp.file.creation_date("YYYY-MM-DD HH:mm:ss") %>
 ---
