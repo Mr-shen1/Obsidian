@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "昂克英语连读",
+      "path": "English/口语、听力/昂克英语连读.md"
+    },
+    {
       "basename": "ArrayList",
       "path": "CS/Java/tuling_v5/并发编程篇/ArrayList.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "从句",
       "path": "English/语法/从句.md"
-    },
-    {
-      "basename": "昂克英语连读",
-      "path": "English/口语、听力/昂克英语连读.md"
     },
     {
       "basename": "MySQL底层数据结构",
