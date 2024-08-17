@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "ArrayList",
+      "path": "CS/Java/tuling_v5/并发编程篇/ArrayList.md"
+    },
+    {
+      "basename": "Redis 持久化、主从哨兵架构",
+      "path": "CS/Java/tuling_v5/分布式框架专题/Redis/Redis 持久化、主从哨兵架构.md"
+    },
+    {
+      "basename": "Nginx安装及使用",
+      "path": "CS/Java/tuling_v5/分布式框架专题/Nginx/Nginx安装及使用.md"
+    },
+    {
       "basename": "2023-09-14",
       "path": "English/每日一句/2023-09-14.md"
     },
@@ -71,14 +83,6 @@
     {
       "basename": "MySQL底层数据结构",
       "path": "CS/Java/tuling_v5/性能调优专题/MySQL底层数据结构.md"
-    },
-    {
-      "basename": "Nginx安装及使用",
-      "path": "CS/Java/tuling_v5/分布式框架专题/Nginx/Nginx安装及使用.md"
-    },
-    {
-      "basename": "Redis 持久化、主从哨兵架构",
-      "path": "CS/Java/tuling_v5/分布式框架专题/Redis/Redis 持久化、主从哨兵架构.md"
     },
     {
       "basename": "Redis安装及常用数据结构",

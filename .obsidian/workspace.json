@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/每日一句/2023-09-14.md",
-                "mode": "preview",
+                "file": "CS/Java/tuling_v5/并发编程篇/ArrayList.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/每日一句/2023-09-14.md",
+                "file": "CS/Java/tuling_v5/并发编程篇/ArrayList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/每日一句/2023-09-14.md",
+                "file": "CS/Java/tuling_v5/并发编程篇/ArrayList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/每日一句/2023-09-14.md"
+                "file": "CS/Java/tuling_v5/并发编程篇/ArrayList.md"
               }
             }
           },
@@ -194,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 367.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,8 +214,12 @@
   },
   "active": "452bb286fdf7915d",
   "lastOpenFiles": [
-    "My Forest/Model Tree/模型树/4. 模型.md",
+    "CS/Java/tuling_v5/分布式框架专题/Redis/Redis 持久化、主从哨兵架构.md",
+    "CS/Java/tuling_v5/分布式框架专题/Nginx/Nginx安装及使用.md",
+    "CS/Java/tuling_v5/并发编程篇/ArrayList.md",
     "English/每日一句/2023-09-14.md",
+    "CS/Java/tuling_v5/并发编程篇",
+    "My Forest/Model Tree/模型树/4. 模型.md",
     "English/每日一句",
     "My Forest/Model Tree/模型树/3. 理解.md",
     "2023-09-24.md",
@@ -239,9 +244,6 @@
     "README.md",
     "Fitness/卓叔12周/屈髋和深蹲.md",
     "Templates/未命名1.md",
-    "My Forest/Model Tree/模型树/未命名1.md",
-    "My Forest/Model Tree/模型树/未命名.md",
-    "English/语法/动词语气(虚拟语气).md",
     "My Forest/Model Tree/模型树",
     "My Forest/Model Tree",
     "My Forest",
@@ -249,7 +251,6 @@
     "CS/Java/Interview/新建文件夹",
     "CS/Java/Interview/专题01：JVM面试题（卷王专供 + 史上最全 + 2023面试必备）-V20-from-尼恩Java面试宝典.pdf",
     "CS/Java/Interview/pdf/专题40：操作系统面试题（卷王专供+ 史上最全 + 2023面试必备）-V28-from-尼恩Java面试宝典-release.pdf",
-    "CS/Java/Interview/pdf/专题39：Nginx面试题（卷王专供+ 史上最全 + 2023面试必备）-V27-from-尼恩Java面试宝典-release.pdf",
     "未命名.canvas"
   ]
 }
